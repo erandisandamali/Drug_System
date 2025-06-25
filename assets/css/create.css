@@ -1,0 +1,97 @@
+.col-drug-route {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-drug-type {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-drug-name {
+    width: 15%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-strength {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-solution {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-volume {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-location {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-days {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-dosage {
+    width: 10%;
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.col-action {
+    width: 5%;
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #dee2e6;
+}
+
+
+        .patient-detail-label {
+            font-weight: bold;
+        }
+        .patient-detail-value {
+            margin-left: 5px;
+        }
