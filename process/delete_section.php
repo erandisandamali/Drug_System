@@ -27,3 +27,4 @@ if (isset($_POST['id'])) {
     // Return error message if id is not provided
     echo json_encode(["success" => false, "message" => "section id not provided."]);
 }
+

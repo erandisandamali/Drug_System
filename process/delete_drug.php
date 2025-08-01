@@ -27,3 +27,4 @@ if (isset($_POST['id'])) {
     // Return error message if patient id is not provided
     echo json_encode(["success" => false, "message" => "drug id not provided."]);
 }
+

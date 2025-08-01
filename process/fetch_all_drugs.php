@@ -18,3 +18,4 @@ if ($result->num_rows > 0) {
     // No drugs found
     echo json_encode(['error' => 'No drugs found']);
 }
+
