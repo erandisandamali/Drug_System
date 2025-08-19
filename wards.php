@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="col-4 text-right">
-                    <button type="button" class="btn btn-info" data-bs-toggle="modal" id="addSectionButton" data-bs-target="#addSectionModal" disabled>
+                    <button type="button" class="btn btn-info" data-bs-toggle="modal" id="addSectionButton" data-bs-target="#addSectionModal">
                         <i class="fas fa-plus-circle me-1"></i> Add Section
                     </button>
 

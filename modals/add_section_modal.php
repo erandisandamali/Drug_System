@@ -11,7 +11,7 @@
                 <form id="addSectionForm">
                     <div class="mb-3">
                         <label for="wardId" class="form-label">Ward</label>
-                        <select class="form-select" id="wardId" required disabled>
+                        <select class="form-select" id="wardId" >
                             <!-- Populate options dynamically based on wards -->
                         </select>
                     </div>
